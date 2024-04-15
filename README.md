@@ -13,8 +13,7 @@ sudo apt install sqlite3
 
 2- then run this:
 
-`
+```
 chmod +x script.sh
-
 ./script.sh 
-`
+```
