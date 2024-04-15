@@ -15,5 +15,6 @@ sudo apt install sqlite3
 
 `
 chmod +x script.sh
+
 ./script.sh 
 `
